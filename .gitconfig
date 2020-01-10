@@ -1,0 +1,6 @@
+[user]
+	email = hanqscvhu@gmail.com
+	name = ocanada12
+[filesystem "Oracle Corporation|1.8.0_231|1847694592"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
